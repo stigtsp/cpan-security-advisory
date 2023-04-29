@@ -10,7 +10,8 @@
   references:
     - https://github.com/andk/cpanpm/commit/9c98370287f4e709924aee7c58ef21c85289a7f0
     - https://blog.hackeriet.no/perl-http-tiny-insecure-tls-default-affects-cpan-modules/
-  cves: []
+  cves:
+    - CVE-2023-31484
 - id: CPANSA-CPAN-2009-01
   distribution: CPAN
   reported: 2009-09-23
